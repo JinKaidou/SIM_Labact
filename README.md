@@ -17,7 +17,7 @@ Documented and Refactored Changes:
 - Scalability adding and deduction is easier
 - Code is easier to debug and update
 - Code logic is broken down to smaller portions
-- Reasuable functions within the code
+- Reusable functions within the code
 
 
 ## Challenges Faced & Solutions  
@@ -32,8 +32,10 @@ Documented and Refactored Changes:
 | **Scalability for future tax/deduction updates** | Structured the code to allow **easy modification of rates and policies** without changing multiple parts of the code. |  
 
 
-Members:
-Ian Reister Baragona - Project Manager
-Jin Caleb Bicar - Lead Developer
-Gabriel Luke Tocle - Git Manager
-Jon Paolo Dimarucut - Refactoring Specialist
+## Project Members  
+- 🧑‍💼 **Ian Reister Baragona** - Project Manager  
+- 💻 **Jin Caleb Bicar** - Lead Developer  
+- 📂 **Gabriel Luke Tocle** - Git Manager  
+- 🔧 **Jon Paolo Dimarucut** - Refactoring Specialist  
+
+
