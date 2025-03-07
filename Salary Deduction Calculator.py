@@ -21,7 +21,7 @@ def calculate_deductions(gross_salary):
     print(f"Total Deductions: {total_deductions:.2f}")
     print(f"Net Salary: {net_salary:.2f}")
 
-# Get user input
+#User input
 try:
     monthly_salary = float(input("Enter your monthly salary: "))
     calculate_deductions(monthly_salary)
