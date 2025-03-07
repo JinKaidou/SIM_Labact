@@ -17,3 +17,9 @@ Documented and Refactored Changes:
 
 
 ## Challenges faced & solutions
+
+Members:
+Ian Reister Baragona - Project Manager
+Jin Caleb Bicar - Lead Developer
+Gabriel Luke Tocle - Git Manager
+Jon Paolo Dimarucut - Refactoring Specialist
