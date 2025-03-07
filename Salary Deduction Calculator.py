@@ -12,6 +12,7 @@ class SalaryCalculator:
         """Calculates PhilHealth contribution (shared between employee and employer)."""
         return (self.gross_salary * self.PHILHEALTH_RATE) / 2
 
+<<<<<<< HEAD
     def calculate_total_deductions(self):
         """Calculates total deductions (SSS, PhilHealth, Pag-IBIG, and Tax)."""
         philhealth = self.calculate_philhealth()
@@ -52,3 +53,11 @@ if __name__ == "__main__":
         calculator.display_salary_details()
     except ValueError:
         print("Invalid input! Please enter a valid numeric salary.")
+=======
+#User input
+try:
+    monthly_salary = float(input("Enter your monthly salary: "))
+    calculate_deductions(monthly_salary)
+except ValueError:
+    print("Invalid input! Please enter a valid numeric salary.")
+>>>>>>> d4f78d1702b3b17376fa4183ff947ea2e7f12838
